@@ -1,1 +1,3 @@
 /suppliers/findall
+
+npm install mysql2 -g
